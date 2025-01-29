@@ -7,3 +7,5 @@ This repository is for GEOG 5588 Advanced GeoVisualization to illustrate the bar
 
 **Bold Text**
 *Italics Text*
+
+### Demonstrating Local Change
